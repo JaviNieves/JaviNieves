@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaviNieves
-- 👀 I’m interested in automate proccess related to civil engineering projects
-- 🌱 I’m currently learning python, git, linux and sql
+- 👀 I’m interested in automate proccess related to civil engineering projects, BIM, IA and blockchain.
+- 🌱 I’m currently learning python, git, linux and sql.
 - 💞️ I’m looking to collaborate on projects to automate civil engineering projects taks.
 - 📫 How to reach me 
 
